@@ -1,5 +1,7 @@
 # GW2 Camera Movement Control Tool
 
+[中文版](README.md)
+
 ## Introduction
 The GW2 Camera Movement Control Tool is an advanced camera control script designed for Guild Wars 2 players. It allows players to precisely control in-game camera movements, creating smooth and professional-looking gameplay footage and videos.
 
