@@ -14,10 +14,15 @@ The GW2 Camera Movement Control Tool is an advanced camera control script design
 - Multi-language support (Chinese and English)
 
 ## Usage Instructions
-1. Ensure AutoHotkey v2.0 is installed on your computer.
-2. Download and run the `gw2.ahk` script as administrator.
+1. Download the 1.0.0 release version
+2. Download and run the gw2-xxx.exe script with administrator privileges.
 3. Use the graphical interface to adjust camera movement settings.
-4. Use the preset hotkeys (default F1 to start, F2 to stop, F3 to show/hide control window).
+4. Use preset hotkeys (default F1) to start camera movement, F2 to stop movement, and F3 to show/hide the control window.
+
+## Running from Source Code
+1. Download gw2.ahk
+2. Compile directly using the official AHK compilation tool Ahk2Exe (requires AHK 2.0 to be installed in advance)
+3. After compilation, run the compiled exe program
 
 ## Detailed Settings Explanation
 - **X-axis and Y-axis Speed**: Set camera movement speed. Positive for right/down, negative for left/up. Cannot be between 1 and -1.
